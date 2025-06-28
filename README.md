@@ -21,4 +21,4 @@
 - Interactive security quizzes
 - Scenario-based assessments
 
-> **Bottom Line**: Comprehensive training to identify, avoid, and report phishing attacks through practical awareness and proven defense techniques.
+
