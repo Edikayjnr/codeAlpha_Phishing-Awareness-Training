@@ -20,5 +20,9 @@
 ### 🧩 **Knowledge Check**
 - Interactive security quizzes
 - Scenario-based assessments
-
+  
+  ### Developed by ##
+  Edmund Okai- Cybersecurity Intern at CodeAlpha
+   second task assigned by codeAlpha 
+    
 
